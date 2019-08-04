@@ -1,4 +1,4 @@
-# Machine-Learning-for-Health-Data-
+# Machine Learning for Health Data
 
 Breast cancer is the second leading cause of cancer deaths in women after lung cancer in the US and Europe [1, 2] and has the highest incidence rate among all cancers in women worldwide [3]. The most recent figures from the American Cancer Society indicate that about 268,600 and 62,930 new cases of invasive breast cancer and carcinoma in situ (CIS), respectively will be diagnosed in women in 2019 [1]. In its early stages of development, breast cancer is asymptomatic making it difficult to detect. However, early detection can increase survival rates from 56% to 86% [4]. Mammographic screening, a technique in which low-energy X-rays are used to examine the breast, has been attributed with the increase in incidence and a better survival rate in women aged 50-69 [5-7]. 
 
